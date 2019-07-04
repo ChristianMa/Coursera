@@ -1,2 +1,2 @@
 # Coursera
-Course related assignments for the courser course: The Data Scientist's Toolbox
+Course related assignments for the coursera course: The Data Scientist's Toolbox
